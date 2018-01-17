@@ -14,6 +14,9 @@ public class Voting {
 		n = sc.nextInt();
 		String cand[] = new String[n + 1];
 		for (i = 0; i < cand.length; i++) {
+			//  add some name to be used as candidates
+			System.out.println("NAME 1,"+"NAME 2,"+"NAME 3,"+"NAME 4");
+			System.out.println("Please type the name you want vote >>");
 			cand[i] = sc.nextLine();
 		}
 		sc.close();
