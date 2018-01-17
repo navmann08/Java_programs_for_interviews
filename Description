@@ -1,0 +1,10 @@
+# Java_programs_for_interviews
+ProCons is producer consumer problem most commanly asked in interviews 
+i have tried to explain at every step using comments
+
+Voting
+in this we are conducting an election which have fixed number of voters
+there are two winning conditions in this election
+1) if a candidate have more votes then others
+2) if two candidates have same votes then their name are arranged in alphabetical order and last name will won
+
