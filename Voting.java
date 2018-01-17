@@ -6,9 +6,8 @@ import java.util.HashMap;
 import java.util.Scanner;
 
 public class Voting {
-	static int max = 0;
-	static int i, n;
-static String winner="";
+	static int i,n,max = 0;
+	static String winner="";
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("enter the number of voters");
